@@ -472,10 +472,7 @@ extra:
 # |                                                                                                        |
 # +--------------------------------------------------------------------------------------------------------+
 markdown_extensions:
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
-  # - markdown.extensions.admonition:
+  - markdown.extensions.admonition:
   - markdown.extensions.codehilite:
       guess_lang: false
   - markdown.extensions.toc:
