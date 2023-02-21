@@ -1,4 +1,4 @@
-<p align="center"><img src="docs/multixscale_logo.png" alt="MultiXscale logo" width="500px"/></p>
+<p align="center"><img src="multixscale_logo.png" alt="MultiXscale logo" width="500px"/></p>
 
 # MultiXscale, a EuroHPC Centre of Excellence
 
