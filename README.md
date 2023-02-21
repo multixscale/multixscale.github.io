@@ -1,6 +1,6 @@
 # MultiXscale, a EuroHPC Centre of Excellence
 
-<p align="center"><img src="img/multixscale_logo.png" alt="MultiXscale logo" width="500px"/></p>
+<p align="center"><img src="docs/multixscale_logo.png" alt="MultiXscale logo" width="500px"/></p>
 
 MultiXscale, a EuroHPC Centre of Excellence (CoE), is a new large-scale international project funded by the European Commission and the EuroHPC Joint Undertaking. It will extend the applications, user-base and domains actively engaged in the current CoE and EuroHPC ecosystem by addressing specific and critical needs, and advancing the transition towards use of exascale resources by scientific and industrial users in the community of multiscale modelling. This 4-year research project started on the 1st January 2023 and comprises a consortium of 15 partners, including European world-renowned research institutions and companies.
 
