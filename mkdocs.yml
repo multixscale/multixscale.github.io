@@ -499,3 +499,8 @@ markdown_extensions:
   #- pymdownx.tabbed:
   #- pymdownx.tasklist:
   #- pymdownx.tilde:
+
+plugins:
+  - redirects:
+      redirect_maps:
+        'index.md': 'https://www.multixscale.eu'
